@@ -34,3 +34,7 @@
 <p>For Streamlit interface:</p>
 <pre><code>streamlit run webapp.py</code></pre>
 <p>The chosen interface will launch in your browser.</p>
+
+<h2>Model Training & Visualization</h2>
+<p>The **ml_model.ipynb** file is used to generate the models <code>classifier_pipeline.pkl</code> and <code>regressor_pipeline.pkl</code>, which are utilized in AQI prediction.</p>
+<p>Additionally, the **Visualization 1,Visualization 2,Visualization 3,Visualization 4** files contain visualizations of the dataset on which the model is trained, providing insights into air pollution trends.</p>
